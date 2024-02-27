@@ -27,7 +27,7 @@ const sendFunction = async () => {
 
             // Add the message to the chatbox
             const messageDiv = document.createElement('div');
-            messageDiv.textContent = '👤: ' + messageInput.value;
+            messageDiv.textContent = '👤 ' + messageInput.value;
             chatbox.appendChild(messageDiv);
 
             // Clear the input and file upload
@@ -43,6 +43,10 @@ const sendFunction = async () => {
                 image: base64data,
             };
 
+            const pendingDiv = document.createElement('div');
+            pendingDiv.textContent = '🤖 pending';
+            chatbox.appendChild(pendingDiv);
+
             // Use Fetch API to send the data
             fetch(`${url}/${endpoint}`, {
                 method: 'POST',
@@ -52,6 +56,8 @@ const sendFunction = async () => {
                 body: JSON.stringify(data)
             })
             .then(response => {
+                chatbox.removeChild(pendingDiv);
+
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
@@ -60,11 +66,12 @@ const sendFunction = async () => {
             .then(responseData => {
                 console.log("RESPONSE: "+responseData);
                 const robotMessageDiv = document.createElement('div');
-                robotMessageDiv.textContent = '🤖 :' + responseData.txtMessage;
+                robotMessageDiv.textContent = '🤖 ' + responseData.txtMessage;
                 chatbox.appendChild(robotMessageDiv);
             })
             .catch(error => {
                 console.error('There was a problem with the fetch operation: ', error);
+                chatbox.removeChild(pendingDiv);
             });
         };
         reader.readAsDataURL(imageUpload.files[0]);
