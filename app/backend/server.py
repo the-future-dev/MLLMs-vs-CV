@@ -6,6 +6,7 @@ from io import BytesIO
 import base64
 import requests
 from models.CLIP import clip_model
+from models.ALIGN import align_model
 
 app = Flask(__name__)
 CORS(app)
@@ -34,7 +35,8 @@ def process_request():
     print("Model call")
     
     # Model call: api // local
-    label = clip_model.single_image_classification(image)
+    # label = clip_model.single_image_classification(image)
+    label = align_model.single_image_classification(image)
     print("Model response")
     
     return jsonify({ "txtMessage": label })

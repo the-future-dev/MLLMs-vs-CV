@@ -15,7 +15,14 @@ def test_inference():
     outputs = pipe(image, prompt=prompt, generate_kwargs={"max_new_tokens": 10})
     print(outputs)
 
+def single_image_classification(image):
+    # image
+    prompt = "USER: <image>\nPerform zero-shot classification on this image: what label whould you give it?\nASSISTANT:"
 
+    outputs = pipe(image, prompt=prompt, generate_kwargs={"max_new_tokens": 2})
+
+    print("Label: ", outputs)
+    return outputs
 
 if __name__ == '__main__':
     test_inference()
