@@ -14,13 +14,13 @@ def load_labels(path):
     return labels
 
 dir = path.dirname(path.realpath(__file__))
-labels = load_labels(path.join(dir, '../../../../data/labels_ImageNet.json'))
+labels = load_labels(path.join(dir, '../../../../paper_code/data/labels_ImageNet.json'))
 
 text = clip.tokenize(labels).to(device)
 
 
 def test_inference():
-    image = preprocess(Image.open(path.join(dir, '../../../../data/test.jpeg'))).unsqueeze(0).to(device)
+    image = preprocess(Image.open(path.join(dir, '../../../../paper_code/data/test.jpeg'))).unsqueeze(0).to(device)
 
     with torch.no_grad():
         image_features = model.encode_image(image)

@@ -14,10 +14,10 @@ def load_labels(path):
     return labels
 
 dir = path.dirname(path.realpath(__file__))
-imagenet_labels = load_labels(path.join(dir, '../../../../data/labels_ImageNet.json'))
+imagenet_labels = load_labels(path.join(dir, '../../../../paper_code/data/labels_ImageNet.json'))
 
 def test_inference():
-    image = Image.open(path.join(dir, '../../../../data/test.jpeg'))
+    image = Image.open(path.join(dir, '../../../../paper_code/data/test.jpeg'))
 
     candidate_labels = ["an image of a lake", "an image of a forest", "an image of a mountain", "an image of a beach", "an image of a river", "an image of a sea"]
     inputs = processor(text=candidate_labels, images=image, return_tensors="pt")
