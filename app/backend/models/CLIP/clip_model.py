@@ -16,8 +16,6 @@ def load_labels(path):
 dir = path.dirname(path.realpath(__file__))
 labels = load_labels(path.join(dir, '../../../../data/labels_ImageNet.json'))
 
-print("OK")
-
 text = clip.tokenize(labels).to(device)
 
 
