@@ -5,6 +5,7 @@ from PIL import Image
 from io import BytesIO
 import base64
 import requests
+from models.CLIP import clip_model
 
 app = Flask(__name__)
 CORS(app)
@@ -26,23 +27,19 @@ def process_request():
     image_data = re.sub('^data:image/.+;base64,', '', image_data)
     image_data = base64.b64decode(image_data)
     try:
-        Image.open(BytesIO(image_data))
+        image = Image.open(BytesIO(image_data))
     except Exception as e:
         return jsonify({'error': 'Invalid image data: {}'.format(e)}), 400
 
-    # API CALL
-    # response = requests.post('http://mm-llm-api.com/classify', json={
-    #     'image': image_data,
-    #     'text': text,
-    #     'model': model
-    # })
+    print("Model call")
+    
+    # Model call: api // local
+    label = clip_model.single_image_classification(image)
+    print("Model response")
+    
+    return jsonify({ "txtMessage": label })
 
-    # if response.status_code != 200:
-    #     return jsonify({'error': 'Failed to classify image'}), 500
 
-    # response.json()
-
-    return jsonify({ "txtMessage": "ciao" })
 
 @app.route('/', methods=['GET'])
 def is_backend_working():
