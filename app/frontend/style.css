@@ -8,3 +8,19 @@
 #message-input {
     width: 75%;
 }
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+header > audio {
+    position: fixed;
+    right: 0;
+    width: 30%;
+    height: 5vh;
+    margin-top: 10px;
+    margin-right: 10px;
+}
