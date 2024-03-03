@@ -16,7 +16,7 @@ def process_request():
     data = request.json
     image_data = data.get('image')
     text = data.get('message')
-    model = data.get('model', 'GPT4')
+    model = data.get('model', '_default_')
 
     # Data validation:
     if not text:
