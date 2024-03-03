@@ -1,3 +1,5 @@
+.env
+
 *.pyc
 __pycache__
 *.npy
@@ -6,5 +8,7 @@ cifar-10-python.tar.gz
 cifar-10-batches-py
 cifar-100-python.tar.gz
 cifar-100-python
-
 /paper_code/data/MNIST
+caltech-101.zip
+/paper_code/data/caltech101
+/paper_code/data
