@@ -1,0 +1,90 @@
+                     precision    recall  f1-score   support
+
+african_hunting_dog       1.00      0.92      0.96        25
+   aircraft_carrier       1.00      1.00      1.00        25
+                ant       1.00      0.92      0.96        25
+         arctic_fox       0.96      0.92      0.94        25
+             ashcan       0.95      0.72      0.82        25
+             barrel       1.00      0.88      0.94        25
+        beer_bottle       1.00      0.96      0.98        25
+black-footed_ferret       0.96      1.00      0.98        25
+             bolete       0.00      0.00      0.00         0
+           bookshop       0.93      1.00      0.96        25
+              boxer       0.96      1.00      0.98        25
+             cannon       1.00      0.96      0.98        25
+           carousel       0.96      0.96      0.96        25
+             carton       1.00      0.40      0.57        25
+          catamaran       0.96      0.96      0.96        25
+              chime       1.00      0.90      0.95        29
+              cliff       0.00      0.00      0.00         0
+               clog       1.00      0.96      0.98        51
+    cocktail_shaker       0.98      1.00      0.99        50
+   combination_lock       1.00      0.90      0.95        41
+           consomme       0.00      0.00      0.00         0
+         coral_reef       0.00      0.00      0.00         0
+              crate       0.64      0.92      0.75        25
+            cuirass       1.00      0.96      0.98        26
+          dalmatian       1.00      1.00      1.00        25
+            dishrag       1.00      0.69      0.82        26
+               dome       0.96      1.00      0.98        26
+             dugong       0.96      0.92      0.94        25
+    electric_guitar       1.00      1.00      1.00        25
+               file       1.00      0.64      0.78        25
+        fire_screen       1.00      0.76      0.86        25
+     french_bulldog       1.00      0.96      0.98        25
+         frying_pan       0.95      0.84      0.89        25
+      garbage_truck       0.96      1.00      0.98        25
+   golden_retriever       0.96      1.00      0.98        25
+              goose       1.00      1.00      1.00        25
+      gordon_setter       1.00      0.92      0.96        25
+        green_mamba       0.93      1.00      0.96        25
+         hair_slide       1.00      0.80      0.89        25
+         harvestman       0.96      0.92      0.94        25
+            holster       0.96      1.00      0.98        25
+     horizontal_bar       0.86      0.96      0.91        25
+             hotdog       0.00      0.00      0.00         0
+          hourglass       1.00      0.96      0.98        25
+        house_finch       1.00      1.00      1.00        27
+       ibizan_hound       0.90      1.00      0.95        26
+               ipod       1.00      1.00      1.00        10
+          jellyfish       0.96      1.00      0.98        25
+          king_crab       1.00      1.00      1.00        25
+           komondor       0.93      1.00      0.96        26
+            ladybug       1.00      1.00      1.00        25
+               lion       1.00      1.00      1.00        25
+           malamute       1.00      0.96      0.98        28
+            meerkat       1.00      0.96      0.98        25
+   miniature_poodle       1.00      1.00      1.00        25
+          miniskirt       0.00      0.00      0.00         0
+        mixing_bowl       0.00      0.00      0.00         0
+           nematode       1.00      0.76      0.86        25
+       newfoundland       0.89      0.96      0.92        25
+             orange       0.00      0.00      0.00         0
+         pencil_box       0.00      0.00      0.00         0
+        photocopier       0.00      0.00      0.00         0
+             poncho       0.00      0.00      0.00         0
+  rhinoceros_beetle       1.00      1.00      1.00        26
+              robin       1.00      1.00      1.00        25
+        rock_beauty       1.00      0.92      0.96        25
+             saluki       1.00      0.88      0.94        25
+               slot       0.00      0.00      0.00         0
+         solar_dish       0.00      0.00      0.00         0
+         spider_web       0.00      0.00      0.00         0
+    theater_curtain       0.00      0.00      0.00         0
+   three-toed_sloth       1.00      0.96      0.98        25
+    tibetan_mastiff       0.92      0.96      0.94        25
+             toucan       1.00      0.96      0.98        25
+        triceratops       0.96      1.00      0.98        25
+             trifle       0.00      0.00      0.00         0
+            upright       0.00      0.00      0.00         0
+               vase       0.00      0.00      0.00         0
+       walker_hound       1.00      1.00      1.00        25
+         white_wolf       0.92      0.92      0.92        25
+                wok       0.00      0.00      0.00         0
+         worm_fence       0.00      0.00      0.00         0
+               yawl       0.00      0.00      0.00         0
+
+           accuracy                           0.93      1617
+          macro avg       0.73      0.70      0.71      1617
+       weighted avg       0.97      0.93      0.95      1617
+

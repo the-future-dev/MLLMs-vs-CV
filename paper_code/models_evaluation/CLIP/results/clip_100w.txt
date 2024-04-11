@@ -1,0 +1,107 @@
+                     precision    recall  f1-score   support
+
+        house_finch       1.00      0.86      0.92       100
+              robin       0.97      0.83      0.89       100
+        triceratops       1.00      0.32      0.48       100
+        green_mamba       0.85      0.40      0.54       100
+         harvestman       1.00      0.17      0.29       100
+             toucan       1.00      0.21      0.35       100
+              goose       1.00      0.62      0.77       100
+          jellyfish       1.00      0.15      0.26       100
+           nematode       1.00      0.49      0.66       100
+          king_crab       0.97      0.87      0.92       100
+             dugong       1.00      0.29      0.45       100
+       Walker_hound       0.85      0.33      0.47       100
+       Ibizan_hound       0.91      0.10      0.18       100
+             Saluki       0.92      0.47      0.62       100
+   golden_retriever       0.95      0.53      0.68       100
+      Gordon_setter       1.00      0.02      0.04       100
+           komondor       0.00      0.00      0.00       100
+              boxer       0.75      0.85      0.79       100
+    Tibetan_mastiff       1.00      0.20      0.33       100
+     French_bulldog       1.00      0.59      0.74       100
+           malamute       1.00      0.06      0.11       100
+          dalmatian       1.00      0.54      0.70       100
+       Newfoundland       0.63      0.29      0.40       100
+   miniature_poodle       0.88      0.21      0.34       100
+         white_wolf       0.29      0.99      0.45       100
+African_hunting_dog       0.56      0.77      0.65       100
+         Arctic_fox       1.00      0.03      0.06       100
+               lion       0.93      0.93      0.93       100
+            meerkat       1.00      0.74      0.85       100
+            ladybug       1.00      0.94      0.97       100
+  rhinoceros_beetle       1.00      0.75      0.86       100
+                ant       0.82      0.69      0.75       100
+black-footed_ferret       0.00      0.00      0.00       100
+   three-toed_sloth       1.00      0.71      0.83       100
+        rock_beauty       0.00      0.00      0.00       100
+   aircraft_carrier       1.00      0.58      0.73       100
+             ashcan       0.10      0.36      0.15       100
+             barrel       0.91      0.61      0.73       100
+        beer_bottle       1.00      0.36      0.53       100
+           bookshop       0.85      0.94      0.90       100
+             cannon       0.91      0.81      0.86       100
+           carousel       0.98      0.88      0.93       100
+             carton       0.58      0.68      0.63       100
+          catamaran       1.00      0.10      0.18       100
+              chime       0.59      0.50      0.54       100
+               clog       0.97      0.38      0.55       100
+    cocktail_shaker       0.91      0.42      0.58       100
+   combination_lock       0.86      0.72      0.78       100
+              crate       0.85      0.47      0.61       100
+            cuirass       1.00      0.52      0.68       100
+            dishrag       0.64      0.94      0.76       100
+               dome       0.95      0.80      0.87       100
+    electric_guitar       0.95      0.81      0.88       100
+               file       0.21      0.38      0.27       100
+        fire_screen       0.73      0.71      0.72       100
+         frying_pan       0.57      0.70      0.63       100
+      garbage_truck       0.83      0.89      0.86       100
+         hair_slide       0.81      0.13      0.22       100
+            holster       0.87      0.97      0.92       100
+     horizontal_bar       0.36      0.09      0.14       100
+          hourglass       0.97      0.69      0.81       100
+               iPod       0.99      0.90      0.94       100
+           lipstick       0.99      0.69      0.81       100
+          miniskirt       1.00      0.23      0.37       100
+            missile       0.94      0.87      0.90       100
+        mixing_bowl       0.58      0.84      0.69       100
+               oboe       1.00      0.67      0.80       100
+              organ       0.75      0.81      0.78       100
+      parallel_bars       0.58      0.45      0.51       100
+         pencil_box       0.69      0.37      0.48       100
+        photocopier       0.91      0.80      0.85       100
+             poncho       1.00      0.22      0.36       100
+         prayer_rug       1.00      0.80      0.89       100
+               reel       0.67      0.52      0.58       100
+         school_bus       0.84      0.99      0.91       100
+         scoreboard       0.93      0.99      0.96       100
+               slot       0.95      0.86      0.90       100
+            snorkel       0.97      0.58      0.72       100
+         solar_dish       1.00      0.62      0.77       100
+         spider_web       0.56      0.92      0.70       100
+              stage       0.40      0.74      0.52       100
+               tank       0.87      0.99      0.93       100
+    theater_curtain       0.98      0.48      0.64       100
+          tile_roof       0.88      0.71      0.78       100
+       tobacco_shop       0.93      0.87      0.90       100
+           unicycle       1.00      0.32      0.48       100
+            upright       0.40      0.10      0.16       100
+               vase       1.00      0.23      0.37       100
+                wok       1.00      0.08      0.15       100
+         worm_fence       0.67      0.02      0.04       100
+               yawl       0.04      1.00      0.07       100
+        street_sign       0.94      0.88      0.91       100
+           consomme       0.95      0.80      0.87       100
+             trifle       0.98      0.95      0.96       100
+             hotdog       1.00      0.71      0.83       100
+             orange       1.00      0.62      0.77       100
+              cliff       1.00      0.13      0.23       100
+         coral_reef       0.56      0.89      0.69       100
+             bolete       1.00      0.47      0.64       100
+                ear       0.08      0.01      0.02       100
+
+           accuracy                           0.56     10000
+          macro avg       0.82      0.56      0.60     10000
+       weighted avg       0.82      0.56      0.60     10000
+
