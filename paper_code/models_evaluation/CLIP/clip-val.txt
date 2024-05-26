@@ -1,0 +1,257 @@
+                                precision    recall  f1-score   support
+
+                  afghan hound       1.00      0.70      0.82        10
+             african chameleon       1.00      1.00      1.00        10
+             african crocodile       1.00      1.00      1.00        10
+                  african grey       1.00      1.00      1.00        10
+                         agama       1.00      0.90      0.95        10
+                      airedale       1.00      0.80      0.89        10
+                     albatross       1.00      1.00      1.00        10
+              alligator lizard       0.91      1.00      0.95        10
+            american alligator       1.00      1.00      1.00        10
+            american chameleon       1.00      0.80      0.89        10
+                 american coot       1.00      0.90      0.95        10
+                american egret       1.00      1.00      1.00        10
+              american lobster       1.00      1.00      1.00        10
+american staffordshire terrier       0.83      1.00      0.91        10
+                   appenzeller       0.00      0.00      0.00         0
+            australian terrier       1.00      0.90      0.95        10
+                       axolotl       1.00      1.00      1.00        10
+                    bald eagle       1.00      1.00      1.00        10
+                    ballplayer       0.00      0.00      0.00         0
+                  banded gecko       1.00      1.00      1.00        10
+                   barn spider       1.00      0.90      0.95        10
+                        basset       0.56      0.90      0.69        10
+                        beagle       1.00      0.60      0.75        10
+                      bearskin       0.00      0.00      0.00         0
+            bedlington terrier       1.00      0.70      0.82        10
+                     bee eater       1.00      1.00      1.00        10
+                        binder       0.00      0.00      0.00         0
+                         bison       0.00      0.00      0.00         0
+                       bittern       0.89      0.80      0.84        10
+  black and gold garden spider       1.00      1.00      1.00        10
+                  black grouse       1.00      1.00      1.00        10
+                   black stork       1.00      1.00      1.00        10
+                    black swan       1.00      1.00      1.00        10
+                   black widow       0.91      1.00      0.95        10
+       black-and-tan coonhound       0.90      0.90      0.90        10
+              blenheim spaniel       1.00      1.00      1.00        10
+                    bloodhound       0.67      0.20      0.31        10
+                      bluetick       0.91      1.00      0.95        10
+               boa constrictor       0.83      1.00      0.91        10
+                border terrier       0.91      1.00      0.95        10
+                        borzoi       0.82      1.00      0.90         9
+                   boston bull       1.00      1.00      1.00        10
+          bouvier des flandres       0.00      0.00      0.00         0
+                    box turtle       1.00      1.00      1.00        10
+             brabancon griffon       0.00      0.00      0.00         0
+                   brain coral       1.00      1.00      1.00        10
+                     brambling       1.00      1.00      1.00        10
+                        briard       0.00      0.00      0.00         0
+              brittany spaniel       1.00      1.00      1.00        10
+                        bulbul       1.00      1.00      1.00        10
+                      bullfrog       1.00      0.90      0.95        10
+                       bustard       0.83      1.00      0.91        10
+                         cairn       0.00      0.00      0.00        10
+                     centipede       1.00      0.80      0.89        10
+            chambered nautilus       1.00      0.90      0.95        10
+      chesapeake bay retriever       1.00      1.00      1.00        10
+                     chickadee       1.00      1.00      1.00        10
+                     chihuahua       1.00      0.70      0.82        10
+                        chiton       1.00      1.00      1.00        10
+                       clumber       1.00      0.38      0.55         8
+                          cock       1.00      0.70      0.82        10
+                 common iguana       0.91      1.00      0.95        10
+                   common newt       1.00      1.00      1.00        10
+                         conch       1.00      0.80      0.89        10
+                        coucal       1.00      0.90      0.95        10
+                        cradle       0.00      0.00      0.00         0
+                         crane       1.00      1.00      1.00        10
+                      crayfish       1.00      1.00      1.00        10
+                  croquet ball       0.00      0.00      0.00         0
+        curly-coated retriever       1.00      0.90      0.95        10
+                dandie dinmont       0.90      0.90      0.90        10
+                   diamondback       0.71      1.00      0.83        10
+                      doberman       0.00      0.00      0.00         0
+                       dogsled       0.00      0.00      0.00         0
+                     dowitcher       1.00      1.00      1.00        10
+                         drake       0.90      0.90      0.90        10
+                        dugong       1.00      1.00      1.00        10
+                dungeness crab       1.00      1.00      1.00        10
+                       echidna       1.00      1.00      1.00        10
+                           eft       1.00      1.00      1.00        10
+                  electric ray       1.00      1.00      1.00        10
+              english foxhound       0.77      1.00      0.87        10
+                english setter       1.00      1.00      1.00        10
+                   entlebucher       0.00      0.00      0.00         0
+                    eskimo dog       0.00      0.00      0.00         0
+      european fire salamander       1.00      1.00      1.00        10
+            european gallinule       1.00      1.00      1.00        10
+                  fiddler crab       0.91      1.00      0.95        10
+                      flamingo       1.00      1.00      1.00        10
+         flat-coated retriever       0.91      1.00      0.95        10
+                      flatworm       1.00      1.00      1.00        10
+                frilled lizard       1.00      1.00      1.00        10
+                           gar       0.00      0.00      0.00         0
+                 garden spider       1.00      1.00      1.00        10
+                  garter snake       0.91      1.00      0.95        10
+   german short-haired pointer       1.00      1.00      1.00        10
+               giant schnauzer       1.00      0.90      0.95        10
+                  gila monster       0.91      1.00      0.95        10
+              golden retriever       0.77      1.00      0.87        10
+                     goldfinch       1.00      1.00      1.00        10
+                      goldfish       1.00      0.92      0.96        13
+                         goose       1.00      1.00      1.00        10
+                 gordon setter       1.00      0.90      0.95        10
+                great grey owl       1.00      1.00      1.00        10
+             great white shark       1.00      0.91      0.95        11
+    greater swiss mountain dog       0.00      0.00      0.00         0
+                  green lizard       1.00      0.90      0.95        10
+                   green mamba       1.00      0.90      0.95        10
+                   green snake       1.00      1.00      1.00        10
+                    grey whale       0.91      1.00      0.95        10
+                    hammerhead       1.00      0.90      0.95        10
+                    harvestman       1.00      0.90      0.95        10
+                           hen       1.00      0.90      0.95        10
+                   hermit crab       0.91      1.00      0.95        10
+                 hognose snake       1.00      0.60      0.75        10
+                      hornbill       1.00      0.80      0.89        10
+                  horned viper       0.83      1.00      0.91        10
+                   house finch       0.91      1.00      0.95        10
+                   hummingbird       1.00      1.00      1.00        10
+                  ibizan hound       0.75      0.60      0.67        10
+                      ice bear       0.00      0.00      0.00         0
+                  indian cobra       1.00      1.00      1.00        10
+                indigo bunting       1.00      1.00      1.00        10
+                  irish setter       1.00      0.90      0.95        10
+                 irish terrier       1.00      0.90      0.95        10
+               irish wolfhound       1.00      1.00      1.00        10
+                        isopod       0.90      0.90      0.90        10
+             italian greyhound       1.00      1.00      1.00        10
+                       jacamar       1.00      1.00      1.00        10
+              japanese spaniel       1.00      0.80      0.89        10
+                           jay       1.00      1.00      1.00        10
+                     jellyfish       1.00      1.00      1.00        10
+                         junco       1.00      1.00      1.00        10
+            kerry blue terrier       1.00      0.90      0.95        10
+                  killer whale       1.00      1.00      1.00        10
+                     king crab       0.83      1.00      0.91        10
+                  king penguin       1.00      1.00      1.00        10
+                    king snake       1.00      1.00      1.00        10
+                          kite       1.00      1.00      1.00        10
+                         koala       1.00      1.00      1.00        10
+                 komodo dragon       1.00      1.00      1.00        10
+                      komondor       0.00      0.00      0.00         0
+            labrador retriever       1.00      1.00      1.00        10
+              lakeland terrier       0.90      0.90      0.90        10
+            leatherback turtle       1.00      0.90      0.95        10
+                         lhasa       0.77      1.00      0.87        10
+                       limpkin       1.00      1.00      1.00        10
+             little blue heron       1.00      1.00      1.00        10
+                    loggerhead       1.00      0.90      0.95        10
+            long-horned beetle       0.00      0.00      0.00         0
+                      lorikeet       1.00      1.00      1.00        10
+                         macaw       1.00      1.00      1.00        10
+                        magpie       1.00      0.90      0.95        10
+                   maltese dog       1.00      1.00      1.00        10
+                       maypole       0.00      0.00      0.00         0
+                     meat loaf       0.00      0.00      0.00         0
+            miniature pinscher       0.00      0.00      0.00         0
+              miniature poodle       0.00      0.00      0.00         0
+           miniature schnauzer       0.91      1.00      0.95        10
+                      mongoose       0.00      0.00      0.00         0
+                    mud turtle       0.91      1.00      0.95        10
+                      nematode       1.00      0.60      0.75        10
+                  newfoundland       0.00      0.00      0.00         0
+                   night snake       0.57      0.80      0.67        10
+               norfolk terrier       0.50      0.70      0.58        10
+            norwegian elkhound       1.00      1.00      1.00        10
+               norwich terrier       1.00      0.90      0.95        10
+                       ostrich       1.00      0.90      0.95        10
+                    otterhound       0.91      1.00      0.95        10
+                 oystercatcher       1.00      1.00      1.00        10
+                      papillon       1.00      0.90      0.95        10
+                     partridge       1.00      1.00      1.00        10
+                       peacock       1.00      0.90      0.95        10
+                      pekinese       1.00      1.00      1.00        10
+                       pelican       1.00      1.00      1.00        10
+                      platypus       1.00      1.00      1.00        10
+               prairie chicken       0.91      1.00      0.95        10
+                     ptarmigan       1.00      0.80      0.89        10
+                         quail       0.67      1.00      0.80        10
+          red-backed sandpiper       0.83      1.00      0.91        10
+        red-breasted merganser       0.90      0.90      0.90        10
+                       redbone       0.50      0.10      0.17        10
+                      redshank       1.00      0.80      0.89        10
+           rhodesian ridgeback       0.80      0.80      0.80        10
+                ringneck snake       1.00      1.00      1.00        10
+                         robin       1.00      1.00      1.00        10
+                     rock crab       1.00      0.80      0.89        10
+                   rock python       1.00      0.70      0.82        10
+               ruddy turnstone       1.00      1.00      1.00        10
+                 ruffed grouse       1.00      1.00      1.00        10
+                        saluki       1.00      1.00      1.00        10
+                      scorpion       1.00      1.00      1.00        10
+                scotch terrier       0.83      1.00      0.91        10
+            scottish deerhound       1.00      1.00      1.00        10
+                   sea anemone       1.00      0.90      0.95        10
+                  sea cucumber       0.00      0.00      0.00         0
+                      sea lion       1.00      1.00      1.00        10
+                      sea slug       1.00      1.00      1.00        10
+                     sea snake       1.00      1.00      1.00        10
+              sealyham terrier       1.00      0.90      0.95        10
+                      shih-tzu       0.80      0.80      0.80        10
+                    sidewinder       1.00      0.40      0.57        10
+                 silky terrier       0.64      0.70      0.67        10
+                          slug       1.00      1.00      1.00        10
+                         snail       1.00      1.00      1.00        10
+   soft-coated wheaten terrier       1.00      1.00      1.00        10
+                    spider web       0.00      0.00      0.00         0
+                 spiny lobster       0.91      1.00      0.95        10
+                     spoonbill       1.00      1.00      1.00        10
+            spotted salamander       1.00      1.00      1.00        10
+     staffordshire bullterrier       1.00      0.90      0.95        10
+               standard poodle       0.00      0.00      0.00         0
+            standard schnauzer       0.83      1.00      0.91        10
+                      stingray       1.00      0.90      0.95        10
+                      sturgeon       0.00      0.00      0.00         0
+      sulphur-crested cockatoo       0.91      1.00      0.95        10
+                    table lamp       0.00      0.00      0.00         0
+                   tailed frog       0.77      1.00      0.87        10
+                     tarantula       1.00      1.00      1.00        10
+                         tench       1.00      1.00      1.00         6
+                      terrapin       1.00      1.00      1.00         9
+                 thunder snake       0.67      0.80      0.73        10
+               tibetan terrier       0.90      0.90      0.90        10
+                          tick       1.00      0.90      0.95        10
+                   tiger shark       1.00      0.90      0.95        10
+                        toucan       0.91      1.00      0.95        10
+                   toy terrier       1.00      0.80      0.89        10
+                       toyshop       0.00      0.00      0.00         0
+                     tree frog       1.00      0.70      0.82        10
+                   triceratops       1.00      1.00      1.00        10
+                     trilobite       1.00      1.00      1.00        10
+                        tusker       1.00      1.00      1.00        10
+                    vine snake       1.00      1.00      1.00        10
+                        vizsla       0.69      0.90      0.78        10
+                       vulture       1.00      1.00      1.00        10
+                  walker hound       0.89      0.80      0.84        10
+                       wallaby       1.00      0.90      0.95        10
+                   water ouzel       0.90      0.90      0.90        10
+                   water snake       0.91      1.00      0.95        10
+                      web site       0.00      0.00      0.00         0
+                    weimaraner       1.00      1.00      1.00        10
+   west highland white terrier       1.00      1.00      1.00        10
+                       whippet       1.00      1.00      1.00        10
+                      whiptail       0.91      1.00      0.95        10
+                   white stork       1.00      1.00      1.00        10
+                          wing       0.00      0.00      0.00         0
+       wire-haired fox terrier       0.83      1.00      0.91        10
+                   wolf spider       1.00      0.90      0.95        10
+                        wombat       1.00      0.90      0.95        10
+             yorkshire terrier       1.00      1.00      1.00        10
+
+                      accuracy                           0.93      2166
+                     macro avg       0.82      0.81      0.81      2166
+                  weighted avg       0.95      0.93      0.93      2166
+

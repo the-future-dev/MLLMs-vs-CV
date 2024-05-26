@@ -1,0 +1,1005 @@
+                                precision    recall  f1-score   support
+
+                        abacus       1.00      0.95      0.97        19
+                         abaya       0.80      1.00      0.89         8
+                 academic gown       1.00      1.00      1.00        12
+                     accordion       1.00      1.00      1.00         7
+                         acorn       0.92      1.00      0.96        12
+                  acorn squash       0.80      1.00      0.89        12
+               acoustic guitar       0.60      1.00      0.75         6
+                       admiral       1.00      0.11      0.20        18
+                 affenpinscher       0.42      0.42      0.42        12
+                  afghan hound       0.75      0.50      0.60        12
+             african chameleon       0.60      0.90      0.72        10
+             african crocodile       1.00      0.90      0.95        10
+              african elephant       0.88      1.00      0.93        14
+                  african grey       0.85      0.79      0.81        14
+           african hunting dog       0.62      1.00      0.77        10
+                         agama       0.92      0.75      0.83        16
+                        agaric       0.59      0.91      0.71        11
+              aircraft carrier       0.92      1.00      0.96        12
+                      airedale       0.50      0.62      0.55        13
+                      airliner       0.90      1.00      0.95         9
+                       airship       1.00      1.00      1.00        10
+                     albatross       1.00      0.77      0.87        13
+              alligator lizard       0.83      0.45      0.59        11
+                           alp       0.77      0.91      0.83        11
+                         altar       0.90      0.90      0.90        10
+                     ambulance       0.87      0.93      0.90        14
+            american alligator       1.00      1.00      1.00        16
+           american black bear       0.67      1.00      0.80        12
+            american chameleon       0.72      0.93      0.81        14
+                 american coot       0.80      0.92      0.86        13
+                american egret       0.87      1.00      0.93        13
+              american lobster       0.80      1.00      0.89        12
+american staffordshire terrier       0.45      0.83      0.59        12
+                     amphibian       0.60      0.75      0.67        12
+                  analog clock       0.65      1.00      0.79        11
+                  anemone fish       0.75      1.00      0.86         6
+                        angora       1.00      0.46      0.63        13
+                           ant       0.67      1.00      0.80        12
+                        apiary       0.90      0.69      0.78        13
+                   appenzeller       0.50      0.18      0.27        11
+                         apron       0.87      1.00      0.93        13
+                 arabian camel       1.00      1.00      1.00         9
+                    arctic fox       0.69      1.00      0.82         9
+                     armadillo       1.00      0.89      0.94         9
+                     artichoke       0.91      0.91      0.91        11
+                        ashcan       1.00      1.00      1.00        14
+                 assault rifle       1.00      1.00      1.00         9
+            australian terrier       0.25      0.11      0.15         9
+                       axolotl       0.92      0.92      0.92        13
+                        baboon       1.00      0.92      0.96        12
+                      backpack       0.92      1.00      0.96        12
+                        badger       0.89      1.00      0.94        16
+                         bagel       1.00      1.00      1.00        15
+                        bakery       0.93      1.00      0.96        13
+                  balance beam       1.00      0.92      0.96        13
+                    bald eagle       0.79      1.00      0.88        11
+                       balloon       0.91      1.00      0.95        10
+                    ballplayer       1.00      1.00      1.00        10
+                     ballpoint       1.00      0.93      0.96        14
+                        banana       0.92      1.00      0.96        11
+                      band aid       0.82      1.00      0.90         9
+                  banded gecko       0.62      0.83      0.71        12
+                         banjo       0.90      0.90      0.90        10
+                     bannister       1.00      0.93      0.96        14
+                       barbell       1.00      0.92      0.96        13
+                  barber chair       0.75      0.90      0.82        10
+                    barbershop       0.93      1.00      0.96        13
+                          barn       0.91      1.00      0.95        10
+                   barn spider       1.00      0.75      0.86         8
+                     barometer       0.87      0.93      0.90        14
+                    barracouta       0.67      0.55      0.60        11
+                        barrel       0.71      1.00      0.83        10
+                        barrow       0.82      0.82      0.82        11
+                      baseball       1.00      1.00      1.00         9
+                       basenji       0.67      0.29      0.40         7
+                    basketball       0.93      1.00      0.96        13
+                        basset       0.75      0.60      0.67        10
+                      bassinet       0.88      1.00      0.93        14
+                       bassoon       0.89      0.73      0.80        11
+                    bath towel       1.00      0.89      0.94         9
+                   bathing cap       0.88      1.00      0.93        14
+                       bathtub       1.00      1.00      1.00        10
+                   beach wagon       0.91      0.56      0.69        18
+                        beacon       1.00      0.92      0.96        12
+                        beagle       0.55      0.92      0.69        13
+                        beaker       1.00      1.00      1.00        11
+                      bearskin       0.86      0.67      0.75         9
+                        beaver       1.00      1.00      1.00        12
+            bedlington terrier       0.23      0.33      0.27         9
+                           bee       1.00      1.00      1.00        13
+                     bee eater       0.73      0.89      0.80         9
+                   beer bottle       0.75      1.00      0.86         9
+                    beer glass       0.80      1.00      0.89        12
+                     bell cote       1.00      0.73      0.84        11
+                   bell pepper       1.00      1.00      1.00        16
+          bernese mountain dog       0.57      0.87      0.68        15
+                           bib       1.00      0.80      0.89        15
+         bicycle-built-for-two       0.90      1.00      0.95        18
+                       bighorn       0.79      1.00      0.88        11
+                        bikini       0.80      1.00      0.89         8
+                        binder       0.86      0.92      0.89        13
+                    binoculars       0.95      0.95      0.95        20
+                     birdhouse       0.67      1.00      0.80        14
+                         bison       0.90      1.00      0.95        18
+                       bittern       1.00      0.25      0.40         8
+  black and gold garden spider       0.84      1.00      0.91        16
+                  black grouse       0.57      0.67      0.62         6
+                   black stork       1.00      0.71      0.83        14
+                    black swan       1.00      1.00      1.00        15
+                   black widow       0.83      0.56      0.67         9
+       black-and-tan coonhound       0.50      0.54      0.52        13
+           black-footed ferret       0.62      0.62      0.62         8
+              blenheim spaniel       0.42      0.50      0.45        10
+                    bloodhound       0.50      0.44      0.47         9
+                      bluetick       1.00      0.36      0.53        11
+               boa constrictor       0.80      1.00      0.89        12
+                     boathouse       1.00      1.00      1.00         8
+                       bobsled       1.00      1.00      1.00        11
+                        bolete       0.80      0.86      0.83        14
+                      bolo tie       0.89      0.89      0.89        18
+                        bonnet       0.86      0.67      0.75         9
+                   book jacket       0.82      1.00      0.90         9
+                      bookcase       0.86      1.00      0.92        12
+                      bookshop       0.94      1.00      0.97        16
+                 border collie       0.41      0.75      0.53        12
+                border terrier       0.09      0.25      0.13         4
+                        borzoi       0.60      0.33      0.43         9
+                   boston bull       1.00      0.67      0.80         6
+                     bottlecap       1.00      1.00      1.00        16
+          bouvier des flandres       0.27      0.33      0.30        12
+                           bow       0.83      0.91      0.87        11
+                       bow tie       0.90      1.00      0.95         9
+                    box turtle       0.93      0.87      0.90        15
+                         boxer       0.75      0.43      0.55        14
+             brabancon griffon       0.25      0.06      0.10        16
+                   brain coral       0.92      0.92      0.92        12
+                     brambling       0.00      0.00      0.00         7
+                         brass       0.60      0.25      0.35        12
+                     brassiere       1.00      0.80      0.89        10
+                    breakwater       0.93      0.93      0.93        15
+                   breastplate       1.00      0.80      0.89        10
+                        briard       0.80      0.53      0.64        15
+              brittany spaniel       0.64      0.54      0.58        13
+                      broccoli       1.00      1.00      1.00        11
+                         broom       0.92      1.00      0.96        11
+                    brown bear       0.79      1.00      0.88        11
+                        bubble       0.75      1.00      0.86         9
+                        bucket       0.92      1.00      0.96        12
+                       buckeye       0.80      0.27      0.40        15
+                        buckle       1.00      0.73      0.84        11
+                        bulbul       1.00      0.70      0.82        10
+                  bull mastiff       0.67      0.29      0.40         7
+                  bullet train       0.91      0.91      0.91        11
+              bulletproof vest       1.00      1.00      1.00        15
+                      bullfrog       0.91      0.83      0.87        12
+                       burrito       1.00      1.00      1.00        10
+                       bustard       0.69      0.75      0.72        12
+                  butcher shop       1.00      1.00      1.00        13
+              butternut squash       1.00      0.89      0.94         9
+                           cab       0.88      1.00      0.93         7
+             cabbage butterfly       0.92      0.92      0.92        12
+                         cairn       1.00      0.22      0.36         9
+                       caldron       0.90      0.69      0.78        13
+                    can opener       1.00      0.92      0.96        13
+                        candle       0.94      1.00      0.97        16
+                        cannon       0.95      1.00      0.97        18
+                         canoe       0.95      1.00      0.97        18
+                      capuchin       0.93      0.87      0.90        15
+                    car mirror       0.93      1.00      0.96        13
+                     car wheel       1.00      1.00      1.00         4
+                     carbonara       1.00      0.81      0.90        16
+                      cardigan       0.83      0.62      0.71        24
+                       cardoon       1.00      0.58      0.74        12
+                      carousel       1.00      1.00      1.00        15
+               carpenter's kit       0.93      0.87      0.90        15
+                        carton       0.86      0.75      0.80         8
+                  cash machine       0.89      1.00      0.94         8
+                      cassette       0.78      0.93      0.85        15
+               cassette player       0.78      1.00      0.88         7
+                        castle       0.88      0.88      0.88         8
+                     catamaran       1.00      0.83      0.91         6
+                   cauliflower       0.91      0.91      0.91        11
+                     cd player       0.73      0.89      0.80         9
+                         cello       1.00      1.00      1.00        14
+            cellular telephone       0.92      1.00      0.96        11
+                     centipede       1.00      0.60      0.75         5
+                         chain       0.85      1.00      0.92        11
+                    chain mail       0.58      0.88      0.70         8
+                     chain saw       0.94      1.00      0.97        15
+               chainlink fence       0.77      1.00      0.87        10
+            chambered nautilus       0.93      1.00      0.96        13
+                  cheeseburger       1.00      1.00      1.00        10
+                       cheetah       0.91      1.00      0.95        10
+      chesapeake bay retriever       0.62      0.67      0.65        15
+                         chest       0.75      0.90      0.82        10
+                     chickadee       1.00      1.00      1.00         8
+                    chiffonier       1.00      0.80      0.89        10
+                     chihuahua       0.53      0.80      0.64        10
+                         chime       0.79      1.00      0.88        11
+                    chimpanzee       0.73      0.89      0.80         9
+                 china cabinet       0.92      1.00      0.96        12
+                        chiton       0.90      0.53      0.67        17
+               chocolate sauce       0.86      1.00      0.92        12
+                          chow       0.33      0.09      0.14        11
+            christmas stocking       0.71      1.00      0.83        10
+                        church       0.91      1.00      0.95        10
+                        cicada       0.71      0.77      0.74        13
+                        cinema       1.00      0.85      0.92        13
+                       cleaver       0.80      0.80      0.80        15
+                         cliff       1.00      1.00      1.00        15
+                cliff dwelling       1.00      1.00      1.00        12
+                         cloak       1.00      0.77      0.87        13
+                          clog       1.00      1.00      1.00         8
+                       clumber       1.00      0.08      0.15        12
+                          cock       0.44      0.80      0.57         5
+                cocker spaniel       0.54      0.78      0.64         9
+                     cockroach       0.82      0.82      0.82        11
+               cocktail shaker       0.87      1.00      0.93        13
+                    coffee mug       1.00      1.00      1.00        12
+                     coffeepot       0.62      1.00      0.76         8
+                          coho       0.92      0.79      0.85        14
+                          coil       0.75      0.38      0.50         8
+                        collie       0.67      0.57      0.62        14
+                       colobus       1.00      0.78      0.88         9
+              combination lock       0.62      1.00      0.77        10
+                    comic book       0.92      1.00      0.96        11
+                 common iguana       0.80      1.00      0.89         8
+                   common newt       0.76      1.00      0.87        13
+             computer keyboard       1.00      0.93      0.96        14
+                         conch       0.62      1.00      0.76         8
+                 confectionery       0.78      1.00      0.88        14
+                      consomme       1.00      0.50      0.67        10
+                container ship       0.83      1.00      0.91        10
+                   convertible       0.62      1.00      0.77        10
+                  coral fungus       1.00      0.91      0.95        11
+                    coral reef       0.91      0.83      0.87        12
+                     corkscrew       0.92      1.00      0.96        11
+                          corn       0.80      0.89      0.84         9
+                        cornet       1.00      0.73      0.84        11
+                        coucal       0.50      0.13      0.21        15
+                        cougar       0.92      0.92      0.92        13
+                   cowboy boot       0.86      1.00      0.92         6
+                    cowboy hat       1.00      1.00      1.00        14
+                        coyote       0.80      1.00      0.89         8
+                        cradle       1.00      0.89      0.94         9
+                         crane       0.69      0.90      0.78        10
+                        crane2       0.94      1.00      0.97        15
+                  crash helmet       0.94      1.00      0.97        15
+                         crate       1.00      0.89      0.94         9
+                      crayfish       0.67      1.00      0.80         8
+                          crib       1.00      1.00      1.00        14
+                       cricket       1.00      0.67      0.80        12
+                     crock pot       0.69      1.00      0.81        11
+                  croquet ball       0.93      0.93      0.93        14
+              crossword puzzle       0.93      1.00      0.97        14
+                        crutch       0.80      0.67      0.73         6
+                      cucumber       0.95      1.00      0.97        19
+                       cuirass       0.90      0.69      0.78        13
+                           cup       0.73      0.89      0.80         9
+        curly-coated retriever       0.38      0.67      0.48         9
+                 custard apple       1.00      0.88      0.93         8
+                         daisy       1.00      1.00      1.00        16
+                     dalmatian       0.90      0.75      0.82        12
+                           dam       0.83      0.62      0.71         8
+                     damselfly       0.78      0.88      0.82         8
+                dandie dinmont       1.00      0.36      0.53        11
+                          desk       1.00      0.75      0.86         8
+              desktop computer       0.71      1.00      0.83        12
+                         dhole       0.83      0.83      0.83         6
+                dial telephone       0.82      0.90      0.86        10
+                   diamondback       0.78      0.88      0.82         8
+                        diaper       1.00      0.82      0.90        11
+                 digital clock       0.89      0.89      0.89         9
+                 digital watch       1.00      0.86      0.92        14
+                         dingo       0.57      0.57      0.57         7
+                  dining table       0.85      1.00      0.92        17
+                       dishrag       0.92      0.79      0.85        14
+                    dishwasher       0.91      0.91      0.91        11
+                    disk brake       0.88      1.00      0.93        14
+                      doberman       0.47      0.78      0.58         9
+                          dock       0.92      1.00      0.96        11
+                       dogsled       0.71      1.00      0.83        12
+                          dome       0.68      1.00      0.81        15
+                       doormat       1.00      0.75      0.86        16
+                         dough       0.92      1.00      0.96        11
+                     dowitcher       0.80      0.62      0.70        13
+                     dragonfly       0.92      1.00      0.96        11
+                         drake       0.93      1.00      0.97        14
+             drilling platform       0.92      1.00      0.96        11
+                          drum       0.94      0.94      0.94        16
+                     drumstick       1.00      0.85      0.92        13
+                        dugong       1.00      0.83      0.91         6
+                      dumbbell       0.82      1.00      0.90         9
+                   dung beetle       0.75      1.00      0.86         9
+                dungeness crab       0.86      1.00      0.92        12
+                    dutch oven       1.00      1.00      1.00        15
+                           ear       0.92      0.71      0.80        17
+                     earthstar       0.91      0.62      0.74        16
+                       echidna       0.92      1.00      0.96        11
+                           eel       1.00      0.71      0.83        14
+                           eft       0.57      0.40      0.47        10
+                        eggnog       1.00      0.64      0.78        11
+                  egyptian cat       1.00      0.62      0.77         8
+                  electric fan       1.00      1.00      1.00        10
+               electric guitar       1.00      1.00      1.00        13
+           electric locomotive       1.00      1.00      1.00         9
+                  electric ray       0.71      0.50      0.59        10
+              english foxhound       0.57      0.89      0.70         9
+                english setter       0.78      0.58      0.67        12
+              english springer       0.60      0.21      0.32        14
+          entertainment center       0.86      1.00      0.92        12
+                   entlebucher       0.33      0.14      0.20         7
+                      envelope       1.00      0.92      0.96        13
+                    eskimo dog       0.64      0.78      0.70         9
+                      espresso       0.88      1.00      0.93        14
+                espresso maker       0.80      1.00      0.89        12
+      european fire salamander       0.92      0.92      0.92        13
+            european gallinule       0.82      0.56      0.67        16
+                   face powder       1.00      1.00      1.00        11
+                   feather boa       1.00      1.00      1.00        13
+                  fiddler crab       0.71      0.83      0.77        12
+                           fig       0.64      1.00      0.78         9
+                          file       0.73      0.80      0.76        10
+                   fire engine       1.00      1.00      1.00         8
+                   fire screen       1.00      0.69      0.81        16
+                      fireboat       1.00      1.00      1.00        11
+                      flagpole       1.00      0.91      0.95        11
+                      flamingo       1.00      1.00      1.00        13
+         flat-coated retriever       0.38      0.80      0.52        10
+                      flatworm       1.00      0.60      0.75        15
+                         flute       0.79      1.00      0.88        11
+                           fly       0.76      1.00      0.87        13
+                 folding chair       0.80      0.89      0.84         9
+               football helmet       1.00      1.00      1.00         8
+                      forklift       0.92      1.00      0.96        11
+                      fountain       0.91      1.00      0.95        10
+                  fountain pen       0.93      1.00      0.96        13
+                   four-poster       0.88      1.00      0.93        14
+                  fox squirrel       0.75      0.67      0.71         9
+                   freight car       1.00      1.00      1.00        19
+                french bulldog       0.52      0.92      0.67        13
+                   french horn       1.00      1.00      1.00        13
+                   french loaf       0.87      1.00      0.93        13
+                frilled lizard       0.93      1.00      0.96        13
+                    frying pan       0.86      0.86      0.86        14
+                      fur coat       1.00      1.00      1.00        15
+                           gar       0.75      0.33      0.46         9
+                 garbage truck       1.00      0.93      0.96        14
+                 garden spider       1.00      0.82      0.90        11
+                  garter snake       0.92      0.92      0.92        12
+                      gas pump       1.00      1.00      1.00         7
+                       gasmask       1.00      1.00      1.00        17
+                       gazelle       1.00      1.00      1.00        12
+               german shepherd       0.48      1.00      0.65        13
+   german short-haired pointer       0.42      0.42      0.42        12
+                        geyser       1.00      1.00      1.00        10
+                   giant panda       1.00      1.00      1.00        12
+               giant schnauzer       0.40      0.22      0.29         9
+                        gibbon       0.73      0.73      0.73        11
+                  gila monster       0.86      0.92      0.89        13
+                       go-kart       1.00      1.00      1.00        11
+                        goblet       0.92      0.92      0.92        12
+              golden retriever       0.63      0.86      0.73        14
+                     goldfinch       0.76      0.81      0.79        16
+                      goldfish       0.93      1.00      0.97        14
+                     golf ball       1.00      1.00      1.00         7
+                      golfcart       1.00      0.93      0.97        15
+                       gondola       1.00      1.00      1.00        14
+                          gong       1.00      0.93      0.97        15
+                         goose       0.91      0.83      0.87        12
+                 gordon setter       0.27      0.33      0.30         9
+                       gorilla       0.94      1.00      0.97        17
+                          gown       0.87      1.00      0.93        13
+                   grand piano       1.00      1.00      1.00         5
+                  granny smith       0.89      0.89      0.89         9
+                   grasshopper       0.83      1.00      0.91        15
+                    great dane       0.56      0.82      0.67        11
+                great grey owl       0.77      1.00      0.87        10
+                great pyrenees       0.29      0.57      0.38         7
+             great white shark       0.91      1.00      0.95        10
+    greater swiss mountain dog       0.38      0.67      0.48        12
+                  green lizard       0.63      1.00      0.77        12
+                   green mamba       1.00      0.57      0.73         7
+                   green snake       0.92      1.00      0.96        12
+                    greenhouse       1.00      1.00      1.00        12
+                      grey fox       0.93      0.81      0.87        16
+                    grey whale       1.00      0.89      0.94         9
+                        grille       0.93      0.93      0.93        14
+                 grocery store       1.00      0.86      0.92         7
+                   groenendael       0.00      0.00      0.00        18
+                         groom       1.00      0.82      0.90        11
+                 ground beetle       0.92      0.85      0.88        13
+                     guacamole       0.92      1.00      0.96        12
+                        guenon       0.75      0.86      0.80        14
+                    guillotine       0.89      1.00      0.94         8
+                    guinea pig       0.88      1.00      0.93        14
+                     gyromitra       1.00      0.56      0.71        18
+                    hair slide       0.86      0.67      0.75         9
+                    hair spray       1.00      1.00      1.00         6
+                    half track       0.91      0.91      0.91        11
+                        hammer       0.94      1.00      0.97        15
+                    hammerhead       0.88      1.00      0.93         7
+                        hamper       0.75      0.60      0.67         5
+                       hamster       0.92      1.00      0.96        12
+                   hand blower       1.00      0.87      0.93        15
+            hand-held computer       0.62      1.00      0.76         8
+                  handkerchief       0.89      0.80      0.84        10
+                     hard disc       0.90      1.00      0.95         9
+                          hare       1.00      1.00      1.00        13
+                     harmonica       1.00      0.92      0.96        12
+                          harp       1.00      1.00      1.00        10
+                    hartebeest       0.91      0.83      0.87        12
+                     harvester       0.92      0.86      0.89        14
+                    harvestman       0.86      0.92      0.89        13
+                       hatchet       1.00      0.90      0.95        10
+                           hay       0.92      0.92      0.92        12
+                  head cabbage       0.67      0.80      0.73         5
+                           hen       0.88      1.00      0.93         7
+              hen-of-the-woods       0.73      0.92      0.81        12
+                   hermit crab       0.88      0.93      0.90        15
+                           hip       0.00      0.00      0.00        11
+                  hippopotamus       0.93      0.93      0.93        14
+                           hog       0.92      0.86      0.89        14
+                 hognose snake       1.00      0.86      0.92        14
+                       holster       1.00      1.00      1.00        11
+                  home theater       0.76      1.00      0.87        13
+                     honeycomb       0.92      0.92      0.92        13
+                          hook       0.75      0.60      0.67        10
+                     hoopskirt       1.00      0.90      0.95        10
+                horizontal bar       0.70      0.88      0.78         8
+                      hornbill       1.00      0.70      0.82        10
+                  horned viper       1.00      0.70      0.82        10
+                    horse cart       0.93      1.00      0.96        13
+                       hot pot       0.90      0.82      0.86        11
+                        hotdog       0.88      1.00      0.93        14
+                     hourglass       1.00      0.90      0.95        10
+                   house finch       0.90      1.00      0.95         9
+                 howler monkey       0.71      0.71      0.71         7
+                   hummingbird       0.75      1.00      0.86        12
+                         hyena       1.00      0.86      0.92         7
+                          ibex       0.92      0.92      0.92        12
+                  ibizan hound       0.78      0.78      0.78         9
+                      ice bear       0.91      0.91      0.91        11
+                     ice cream       0.90      1.00      0.95        19
+                     ice lolly       1.00      1.00      1.00        15
+                        impala       1.00      1.00      1.00        11
+                  indian cobra       0.88      0.88      0.88         8
+               indian elephant       0.82      1.00      0.90         9
+                indigo bunting       0.83      0.83      0.83         6
+                         indri       0.33      0.14      0.20         7
+                          ipod       1.00      1.00      1.00        13
+                  irish setter       0.75      0.46      0.57        13
+                 irish terrier       0.73      0.73      0.73        11
+           irish water spaniel       0.50      0.83      0.62         6
+               irish wolfhound       0.46      0.67      0.55         9
+                          iron       1.00      0.83      0.91        18
+                        isopod       1.00      0.81      0.90        16
+             italian greyhound       0.64      0.82      0.72        11
+                       jacamar       0.62      0.67      0.64        12
+               jack-o'-lantern       1.00      1.00      1.00        11
+                     jackfruit       1.00      0.90      0.95        10
+                        jaguar       1.00      1.00      1.00        10
+              japanese spaniel       0.86      0.67      0.75         9
+                           jay       0.80      0.92      0.86        13
+                          jean       0.92      1.00      0.96        11
+                          jeep       1.00      1.00      1.00        10
+                     jellyfish       0.78      1.00      0.88         7
+                        jersey       0.80      0.50      0.62         8
+                 jigsaw puzzle       0.92      1.00      0.96        11
+                    jinrikisha       0.70      1.00      0.82         7
+                      joystick       0.93      0.87      0.90        15
+                         junco       0.79      0.92      0.85        12
+                      keeshond       0.43      0.67      0.52         9
+                        kelpie       1.00      0.38      0.55         8
+            kerry blue terrier       0.29      0.50      0.36         8
+                  killer whale       0.92      1.00      0.96        11
+                        kimono       1.00      1.00      1.00        16
+                     king crab       0.85      0.85      0.85        13
+                  king penguin       1.00      1.00      1.00        13
+                    king snake       0.75      0.60      0.67        10
+                       kit fox       0.70      0.70      0.70        10
+                          kite       0.00      0.00      0.00         9
+                      knee pad       1.00      0.90      0.95        10
+                          knot       1.00      0.86      0.92        14
+                         koala       1.00      0.88      0.93         8
+                 komodo dragon       0.67      1.00      0.80        10
+                      komondor       1.00      0.38      0.56        13
+                        kuvasz       0.40      0.12      0.19        16
+                      lab coat       1.00      1.00      1.00        12
+            labrador retriever       0.52      1.00      0.69        12
+                      lacewing       1.00      0.64      0.78        11
+                         ladle       0.91      0.91      0.91        11
+                       ladybug       0.86      0.92      0.89        13
+              lakeland terrier       0.33      0.23      0.27        13
+                      lakeside       1.00      1.00      1.00         7
+                     lampshade       0.73      1.00      0.85        11
+                        langur       0.85      0.92      0.88        12
+                        laptop       1.00      1.00      1.00        10
+                    lawn mower       0.82      1.00      0.90         9
+                   leaf beetle       0.83      1.00      0.91        10
+                    leafhopper       0.76      1.00      0.86        16
+            leatherback turtle       1.00      0.80      0.89        10
+                         lemon       1.00      1.00      1.00        10
+                      lens cap       0.81      0.87      0.84        15
+                      leonberg       0.62      0.50      0.55        16
+                       leopard       1.00      0.90      0.95        10
+                  lesser panda       1.00      1.00      1.00         6
+                 letter opener       1.00      1.00      1.00        11
+                         lhasa       0.71      0.56      0.62         9
+                       library       1.00      1.00      1.00        14
+                      lifeboat       1.00      1.00      1.00         7
+                       lighter       0.82      0.93      0.88        15
+                     limousine       0.86      1.00      0.92         6
+                       limpkin       0.67      0.33      0.44        12
+                         liner       0.81      1.00      0.90        13
+                          lion       1.00      1.00      1.00         7
+                      lionfish       0.93      0.87      0.90        15
+                      lipstick       1.00      0.92      0.96        13
+             little blue heron       0.53      0.89      0.67         9
+                         llama       1.00      1.00      1.00         8
+                        loafer       0.91      1.00      0.95        10
+                    loggerhead       0.90      0.90      0.90        10
+            long-horned beetle       0.64      0.69      0.67        13
+                      lorikeet       0.71      0.91      0.80        11
+                        lotion       1.00      1.00      1.00         8
+                   loudspeaker       0.50      0.80      0.62         5
+                         loupe       0.80      0.80      0.80        10
+                    lumbermill       1.00      0.91      0.95        11
+                      lycaenid       0.89      0.80      0.84        10
+                          lynx       0.81      0.87      0.84        15
+                       macaque       0.92      1.00      0.96        11
+                         macaw       1.00      1.00      1.00         9
+                madagascar cat       1.00      0.46      0.63        13
+              magnetic compass       0.70      1.00      0.82         7
+                        magpie       0.78      0.78      0.78         9
+                       mailbag       1.00      0.73      0.84        11
+                       mailbox       0.94      1.00      0.97        17
+                       maillot       0.94      0.79      0.86        19
+                      malamute       0.89      0.80      0.84        10
+                      malinois       1.00      0.56      0.71         9
+                   maltese dog       0.50      0.80      0.62        10
+                 manhole cover       0.88      1.00      0.94        15
+                        mantis       0.92      1.00      0.96        11
+                        maraca       0.91      0.83      0.87        12
+                       marimba       0.92      0.85      0.88        13
+                      marmoset       0.92      0.92      0.92        12
+                        marmot       0.94      0.94      0.94        18
+                 mashed potato       1.00      1.00      1.00        12
+                          mask       0.90      1.00      0.95         9
+                    matchstick       1.00      0.77      0.87        13
+                       maypole       1.00      1.00      1.00        15
+                          maze       1.00      0.87      0.93        15
+                 measuring cup       0.81      1.00      0.90        13
+                     meat loaf       1.00      1.00      1.00        12
+                medicine chest       1.00      0.81      0.90        16
+                       meerkat       1.00      0.50      0.67         8
+                      megalith       1.00      1.00      1.00         8
+                          menu       0.50      1.00      0.67         5
+              mexican hairless       1.00      0.56      0.71         9
+                    microphone       0.79      1.00      0.88        11
+                     microwave       0.92      0.85      0.88        13
+              military uniform       0.80      1.00      0.89        12
+                      milk can       0.93      0.93      0.93        14
+            miniature pinscher       1.00      0.29      0.44        14
+              miniature poodle       0.61      0.58      0.59        19
+           miniature schnauzer       0.82      0.56      0.67        16
+                       minibus       0.90      1.00      0.95         9
+                     miniskirt       0.93      1.00      0.96        13
+                       minivan       1.00      0.88      0.93         8
+                          mink       0.83      0.59      0.69        17
+                       missile       1.00      0.91      0.95        11
+                        mitten       1.00      1.00      1.00        11
+                   mixing bowl       0.93      1.00      0.97        14
+                   mobile home       1.00      1.00      1.00         7
+                       model t       1.00      1.00      1.00        14
+                         modem       1.00      1.00      1.00        10
+                       monarch       0.64      1.00      0.78         7
+                     monastery       0.67      1.00      0.80        14
+                      mongoose       1.00      0.44      0.62         9
+                       monitor       0.75      0.90      0.82        10
+                         moped       0.91      1.00      0.95        10
+                        mortar       0.93      1.00      0.96        13
+                   mortarboard       0.91      1.00      0.95        10
+                        mosque       1.00      1.00      1.00        10
+                  mosquito net       1.00      1.00      1.00         9
+                 motor scooter       0.95      1.00      0.97        18
+                 mountain bike       1.00      1.00      1.00        12
+                 mountain tent       1.00      0.93      0.97        15
+                         mouse       0.90      0.75      0.82        12
+                     mousetrap       1.00      0.73      0.84        11
+                    moving van       0.91      0.91      0.91        11
+                    mud turtle       0.82      0.82      0.82        11
+                      mushroom       0.82      1.00      0.90        18
+                        muzzle       0.71      0.83      0.77         6
+                          nail       1.00      0.69      0.82        13
+                    neck brace       0.91      0.83      0.87        12
+                      necklace       1.00      1.00      1.00         9
+                      nematode       0.91      0.83      0.87        12
+                  newfoundland       0.55      0.60      0.57        10
+                   night snake       0.80      0.63      0.71        19
+                        nipple       1.00      0.73      0.84        11
+               norfolk terrier       0.80      0.80      0.80        10
+            norwegian elkhound       0.33      0.70      0.45        10
+               norwich terrier       0.70      1.00      0.82         7
+                      notebook       1.00      0.38      0.56        13
+                       obelisk       0.83      1.00      0.91        10
+                          oboe       1.00      0.94      0.97        16
+                       ocarina       0.88      0.54      0.67        13
+                      odometer       1.00      1.00      1.00        14
+                    oil filter       1.00      0.77      0.87        13
+          old english sheepdog       0.77      0.56      0.65        18
+                        orange       1.00      0.92      0.96        13
+                     orangutan       0.71      1.00      0.83        10
+                         organ       1.00      0.89      0.94         9
+                  oscilloscope       1.00      0.86      0.92         7
+                       ostrich       1.00      0.93      0.97        15
+                         otter       0.95      1.00      0.97        19
+                    otterhound       0.33      0.20      0.25        10
+                     overskirt       1.00      0.69      0.81        16
+                            ox       1.00      0.87      0.93        15
+                        oxcart       1.00      0.92      0.96        13
+                   oxygen mask       1.00      0.88      0.93         8
+                 oystercatcher       0.75      0.46      0.57        13
+                        packet       1.00      1.00      1.00        11
+                        paddle       0.90      0.90      0.90        10
+                   paddlewheel       0.91      1.00      0.95        10
+                       padlock       0.83      0.83      0.83        12
+                    paintbrush       1.00      0.93      0.96        14
+                        pajama       1.00      1.00      1.00         7
+                        palace       0.92      1.00      0.96        12
+                       panpipe       1.00      1.00      1.00        12
+                   paper towel       1.00      0.88      0.93        16
+                      papillon       0.33      0.06      0.10        17
+                     parachute       0.93      1.00      0.96        13
+                 parallel bars       0.92      1.00      0.96        11
+                    park bench       0.82      1.00      0.90         9
+                 parking meter       1.00      0.90      0.95        10
+                     partridge       0.92      0.85      0.88        13
+                 passenger car       0.77      0.91      0.83        11
+                         patas       0.67      0.12      0.21        16
+                         patio       0.92      1.00      0.96        12
+                     pay-phone       0.92      1.00      0.96        11
+                       peacock       1.00      1.00      1.00        11
+                      pedestal       0.80      1.00      0.89        12
+                      pekinese       0.43      0.75      0.55         4
+                       pelican       1.00      1.00      1.00         8
+                      pembroke       0.67      0.33      0.44         6
+                    pencil box       0.86      0.67      0.75        18
+              pencil sharpener       0.88      0.88      0.88         8
+                       perfume       0.92      0.92      0.92        12
+                   persian cat       0.82      1.00      0.90        14
+                    petri dish       0.83      0.71      0.77        14
+                   photocopier       0.67      1.00      0.80         4
+                          pick       0.58      0.70      0.64        10
+                   pickelhaube       0.67      0.86      0.75         7
+                  picket fence       1.00      1.00      1.00        10
+                        pickup       0.93      1.00      0.96        13
+                          pier       1.00      0.88      0.93        16
+                    piggy bank       0.91      1.00      0.95        10
+                   pill bottle       0.81      1.00      0.90        13
+                        pillow       0.73      1.00      0.84         8
+                     pineapple       0.92      1.00      0.96        11
+                ping-pong ball       1.00      1.00      1.00        12
+                      pinwheel       1.00      0.92      0.96        12
+                        pirate       1.00      0.54      0.70        13
+                       pitcher       1.00      1.00      1.00        13
+                         pizza       1.00      1.00      1.00         8
+                         plane       0.00      0.00      0.00        12
+                   planetarium       1.00      1.00      1.00         9
+                   plastic bag       0.88      0.94      0.91        16
+                         plate       0.93      1.00      0.97        14
+                    plate rack       0.93      0.93      0.93        15
+                      platypus       1.00      0.57      0.73         7
+                          plow       1.00      0.78      0.88         9
+                       plunger       0.86      0.86      0.86         7
+               polaroid camera       1.00      1.00      1.00        10
+                          pole       0.71      0.71      0.71         7
+                       polecat       1.00      0.47      0.64        15
+                    police van       1.00      1.00      1.00        12
+                   pomegranate       1.00      1.00      1.00        13
+                    pomeranian       0.50      1.00      0.67        10
+                        poncho       1.00      0.93      0.96        14
+                    pool table       0.82      1.00      0.90         9
+                    pop bottle       1.00      0.93      0.96        14
+                     porcupine       0.92      0.92      0.92        13
+                           pot       0.88      1.00      0.94        15
+                        potpie       1.00      0.93      0.96        14
+                potter's wheel       1.00      1.00      1.00         8
+                   power drill       0.82      1.00      0.90        14
+               prairie chicken       0.69      0.85      0.76        13
+                    prayer rug       1.00      0.94      0.97        16
+                       pretzel       1.00      1.00      1.00        13
+                       printer       0.88      1.00      0.93         7
+                        prison       0.80      1.00      0.89         8
+              proboscis monkey       0.87      1.00      0.93        13
+                    projectile       0.92      0.85      0.88        13
+                     projector       0.92      0.92      0.92        12
+                    promontory       0.87      0.87      0.87        15
+                     ptarmigan       0.89      0.67      0.76        12
+                          puck       1.00      1.00      1.00        12
+                        puffer       1.00      0.25      0.40        12
+                           pug       0.75      0.60      0.67        10
+                  punching bag       1.00      0.69      0.82        13
+                         purse       0.91      1.00      0.95        10
+                         quail       0.78      0.64      0.70        11
+                         quill       1.00      1.00      1.00        10
+                         quilt       0.71      0.77      0.74        13
+                         racer       1.00      0.80      0.89        10
+                        racket       0.91      1.00      0.95        10
+                      radiator       1.00      1.00      1.00        10
+                         radio       0.92      0.92      0.92        13
+               radio telescope       1.00      1.00      1.00        14
+                   rain barrel       1.00      1.00      1.00        12
+                           ram       0.83      0.91      0.87        11
+                      rapeseed       1.00      0.88      0.93        16
+          recreational vehicle       0.80      1.00      0.89         8
+                       red fox       1.00      1.00      1.00        14
+                      red wine       1.00      0.91      0.95        11
+                      red wolf       1.00      0.64      0.78        11
+          red-backed sandpiper       1.00      0.67      0.80        12
+        red-breasted merganser       0.69      1.00      0.82         9
+                       redbone       0.00      0.00      0.00        11
+                      redshank       0.82      0.56      0.67        16
+                          reel       1.00      0.83      0.91        12
+                 reflex camera       0.94      1.00      0.97        15
+                  refrigerator       0.91      1.00      0.95        10
+                remote control       0.80      1.00      0.89        12
+                    restaurant       0.86      0.92      0.89        13
+                      revolver       0.78      1.00      0.88         7
+             rhinoceros beetle       0.65      1.00      0.79        15
+           rhodesian ridgeback       0.80      0.53      0.64        15
+                         rifle       1.00      0.89      0.94         9
+                       ringlet       1.00      0.21      0.35        14
+                ringneck snake       0.90      0.90      0.90        10
+                         robin       0.88      0.94      0.91        16
+                   rock beauty       0.89      0.73      0.80        11
+                     rock crab       0.75      0.92      0.83        13
+                   rock python       0.88      0.64      0.74        11
+                 rocking chair       0.77      1.00      0.87        10
+                    rotisserie       0.82      1.00      0.90         9
+                    rottweiler       0.67      0.92      0.77        13
+                 rubber eraser       1.00      0.88      0.93         8
+               ruddy turnstone       0.50      0.40      0.44         5
+                 ruffed grouse       0.58      0.78      0.67         9
+                    rugby ball       1.00      1.00      1.00         9
+                          rule       0.62      0.91      0.74        11
+                  running shoe       1.00      1.00      1.00        12
+                          safe       0.82      0.82      0.82        17
+                    safety pin       0.80      0.44      0.57         9
+                 saint bernard       0.48      1.00      0.65        10
+                    saltshaker       1.00      0.91      0.95        11
+                        saluki       0.46      0.55      0.50        11
+                       samoyed       0.56      0.82      0.67        11
+                        sandal       1.00      0.91      0.95        11
+                       sandbar       1.00      0.75      0.86         8
+                        sarong       0.80      1.00      0.89         8
+                           sax       0.86      0.92      0.89        13
+                      scabbard       0.92      0.86      0.89        14
+                         scale       0.79      0.92      0.85        12
+                    schipperke       0.50      0.17      0.25        12
+                    school bus       1.00      1.00      1.00        13
+                      schooner       0.92      1.00      0.96        12
+                    scoreboard       1.00      1.00      1.00         9
+                      scorpion       1.00      0.90      0.95        10
+                scotch terrier       0.60      0.50      0.55        12
+            scottish deerhound       0.71      0.50      0.59        10
+                        screen       0.70      0.88      0.78         8
+                         screw       0.86      1.00      0.92        12
+                   screwdriver       0.92      0.92      0.92        12
+                   scuba diver       0.94      1.00      0.97        17
+                   sea anemone       1.00      1.00      1.00         7
+                  sea cucumber       0.71      0.62      0.67         8
+                      sea lion       1.00      1.00      1.00        11
+                      sea slug       1.00      1.00      1.00        13
+                     sea snake       0.92      0.92      0.92        13
+                    sea urchin       0.91      1.00      0.95        10
+              sealyham terrier       0.67      0.57      0.62        14
+                      seashore       0.67      0.80      0.73        10
+                     seat belt       0.88      1.00      0.93         7
+                sewing machine       1.00      1.00      1.00         6
+             shetland sheepdog       0.46      0.67      0.55         9
+                        shield       0.76      1.00      0.87        13
+                      shih-tzu       0.83      0.50      0.62        10
+                     shoe shop       1.00      1.00      1.00        14
+                         shoji       1.00      1.00      1.00         4
+               shopping basket       0.68      1.00      0.81        15
+                 shopping cart       0.80      1.00      0.89         8
+                        shovel       1.00      1.00      1.00        14
+                    shower cap       0.89      0.89      0.89         9
+                shower curtain       1.00      0.92      0.96        12
+                       siamang       0.80      0.80      0.80        15
+                   siamese cat       0.81      1.00      0.90        13
+                siberian husky       0.68      0.93      0.79        14
+                    sidewinder       1.00      0.36      0.53        11
+                 silky terrier       0.67      0.44      0.53         9
+                           ski       1.00      1.00      1.00        14
+                      ski mask       1.00      1.00      1.00         9
+                         skunk       0.91      0.83      0.87        12
+                  sleeping bag       0.86      0.75      0.80         8
+                    slide rule       0.75      1.00      0.86         9
+                  sliding door       0.82      0.82      0.82        11
+                          slot       1.00      1.00      1.00        14
+                    sloth bear       1.00      0.62      0.77        16
+                          slug       0.80      1.00      0.89        12
+                         snail       1.00      0.90      0.95        10
+                       snorkel       0.91      1.00      0.95        10
+                  snow leopard       1.00      1.00      1.00        11
+                    snowmobile       1.00      1.00      1.00         9
+                      snowplow       1.00      1.00      1.00        13
+                soap dispenser       1.00      1.00      1.00        12
+                   soccer ball       0.79      1.00      0.88        11
+                          sock       0.88      1.00      0.93         7
+   soft-coated wheaten terrier       0.42      0.50      0.45        10
+                    solar dish       1.00      0.73      0.84        11
+                      sombrero       1.00      0.92      0.96        12
+                        sorrel       0.80      0.29      0.42        14
+                     soup bowl       0.80      1.00      0.89        12
+                     space bar       1.00      0.69      0.82        13
+                  space heater       1.00      0.93      0.96        14
+                 space shuttle       0.89      1.00      0.94        16
+              spaghetti squash       0.91      0.71      0.80        14
+                       spatula       1.00      0.90      0.95        10
+                     speedboat       0.90      1.00      0.95         9
+                 spider monkey       0.74      1.00      0.85        14
+                    spider web       0.88      1.00      0.94        15
+                       spindle       0.80      0.50      0.62         8
+                 spiny lobster       0.88      0.70      0.78        10
+                     spoonbill       1.00      0.62      0.76        13
+                    sports car       0.92      1.00      0.96        11
+                     spotlight       0.86      0.75      0.80         8
+            spotted salamander       0.69      0.90      0.78        10
+               squirrel monkey       0.53      0.73      0.62        11
+     staffordshire bullterrier       0.36      0.50      0.42        10
+                         stage       0.93      1.00      0.96        13
+               standard poodle       0.80      0.80      0.80         5
+            standard schnauzer       0.56      0.42      0.48        12
+                      starfish       0.86      1.00      0.92        12
+              steam locomotive       1.00      1.00      1.00        12
+             steel arch bridge       0.92      1.00      0.96        11
+                    steel drum       1.00      1.00      1.00        11
+                   stethoscope       1.00      0.89      0.94         9
+                      stingray       1.00      0.75      0.86         8
+                     stinkhorn       0.83      0.94      0.88        16
+                         stole       0.85      0.73      0.79        15
+                    stone wall       1.00      0.85      0.92        13
+                     stopwatch       1.00      0.94      0.97        17
+                         stove       1.00      0.95      0.97        19
+                      strainer       0.88      0.58      0.70        12
+                    strawberry       1.00      0.90      0.95        10
+                   street sign       0.92      1.00      0.96        12
+                     streetcar       1.00      1.00      1.00        10
+                     stretcher       1.00      1.00      1.00         7
+                  studio couch       0.82      1.00      0.90         9
+                         stupa       1.00      0.92      0.96        13
+                      sturgeon       0.91      0.91      0.91        11
+                     submarine       0.93      1.00      0.96        13
+                          suit       0.93      0.93      0.93        14
+             sulphur butterfly       0.92      0.85      0.88        13
+      sulphur-crested cockatoo       0.78      1.00      0.88        14
+                       sundial       0.89      0.89      0.89         9
+                      sunglass       0.86      1.00      0.92        12
+                    sunglasses       0.77      1.00      0.87        10
+                     sunscreen       1.00      0.93      0.97        15
+             suspension bridge       0.94      1.00      0.97        17
+                sussex spaniel       0.70      0.37      0.48        19
+                          swab       1.00      0.45      0.62        11
+                    sweatshirt       0.78      1.00      0.88        14
+               swimming trunks       0.87      1.00      0.93        13
+                         swing       1.00      1.00      1.00        13
+                        switch       0.80      1.00      0.89         8
+                       syringe       0.80      1.00      0.89         8
+                         tabby       1.00      0.80      0.89        10
+                    table lamp       0.80      1.00      0.89         8
+                   tailed frog       0.38      0.75      0.50         4
+                          tank       1.00      1.00      1.00        13
+                   tape player       0.82      0.90      0.86        10
+                     tarantula       1.00      1.00      1.00         6
+                        teapot       0.71      1.00      0.83        10
+                         teddy       0.75      1.00      0.86        12
+                    television       1.00      1.00      1.00        12
+                         tench       1.00      0.86      0.92         7
+                   tennis ball       0.82      1.00      0.90         9
+                      terrapin       0.75      1.00      0.86         6
+                        thatch       1.00      0.93      0.96        14
+               theater curtain       0.82      1.00      0.90         9
+                       thimble       0.92      0.65      0.76        17
+              three-toed sloth       0.75      1.00      0.86        12
+                      thresher       1.00      0.80      0.89        10
+                        throne       1.00      1.00      1.00        14
+                 thunder snake       0.75      0.25      0.38        12
+               tibetan mastiff       0.62      0.56      0.59        18
+               tibetan terrier       0.33      0.30      0.32        10
+                          tick       1.00      0.86      0.92        14
+                         tiger       0.94      1.00      0.97        16
+                  tiger beetle       0.67      1.00      0.80        14
+                     tiger cat       0.92      1.00      0.96        12
+                   tiger shark       0.92      0.92      0.92        13
+                     tile roof       0.87      1.00      0.93        13
+                   timber wolf       0.92      0.92      0.92        13
+                          titi       0.67      0.17      0.27        12
+                       toaster       1.00      1.00      1.00         9
+                  tobacco shop       1.00      0.91      0.95        11
+                   toilet seat       1.00      0.80      0.89        10
+                 toilet tissue       1.00      0.93      0.96        14
+                         torch       1.00      0.93      0.96        14
+                    totem pole       1.00      1.00      1.00        10
+                        toucan       0.92      1.00      0.96        12
+                     tow truck       0.86      1.00      0.92        12
+                    toy poodle       0.72      0.76      0.74        17
+                   toy terrier       0.57      0.57      0.57         7
+                       toyshop       0.92      0.92      0.92        13
+                       tractor       0.88      1.00      0.93        14
+                 traffic light       1.00      0.92      0.96        12
+                 trailer truck       0.94      1.00      0.97        17
+                          tray       0.93      0.87      0.90        15
+                     tree frog       0.59      0.83      0.69        12
+                   trench coat       0.90      1.00      0.95         9
+                   triceratops       1.00      1.00      1.00        12
+                      tricycle       0.91      0.83      0.87        12
+                        trifle       0.94      1.00      0.97        16
+                     trilobite       1.00      0.91      0.95        11
+                      trimaran       0.94      1.00      0.97        16
+                        tripod       1.00      1.00      1.00        10
+                triumphal arch       1.00      1.00      1.00        17
+                    trolleybus       1.00      1.00      1.00        13
+                      trombone       0.82      1.00      0.90         9
+                           tub       0.87      0.93      0.90        14
+                     turnstile       0.88      0.78      0.82         9
+                        tusker       1.00      0.53      0.69        17
+           typewriter keyboard       0.74      1.00      0.85        14
+                      umbrella       0.82      1.00      0.90         9
+                      unicycle       1.00      0.90      0.95        10
+                       upright       0.71      0.42      0.53        12
+                        vacuum       0.88      1.00      0.93         7
+                        valley       1.00      1.00      1.00        12
+                          vase       0.93      1.00      0.97        14
+                         vault       0.78      0.70      0.74        10
+                        velvet       1.00      0.43      0.60        14
+               vending machine       1.00      1.00      1.00        11
+                      vestment       0.71      1.00      0.83        10
+                       viaduct       1.00      1.00      1.00        12
+                    vine snake       0.80      0.57      0.67         7
+                        violin       0.86      1.00      0.92        12
+                        vizsla       0.46      0.50      0.48        12
+                       volcano       1.00      0.90      0.95        10
+                    volleyball       1.00      1.00      1.00        12
+                       vulture       0.70      0.78      0.74         9
+                   waffle iron       0.83      1.00      0.91         5
+                  walker hound       0.33      0.20      0.25        10
+                 walking stick       1.00      0.70      0.82        10
+                    wall clock       1.00      0.94      0.97        18
+                       wallaby       1.00      0.73      0.84        11
+                        wallet       1.00      1.00      1.00        13
+                      wardrobe       0.82      1.00      0.90        14
+                      warplane       0.94      1.00      0.97        16
+                       warthog       0.89      1.00      0.94         8
+                     washbasin       1.00      1.00      1.00        11
+                        washer       1.00      1.00      1.00        10
+                  water bottle       0.85      1.00      0.92        11
+                 water buffalo       1.00      0.90      0.95        10
+                     water jug       0.80      0.73      0.76        11
+                   water ouzel       0.88      0.70      0.78        10
+                   water snake       1.00      0.71      0.83        17
+                   water tower       1.00      1.00      1.00         5
+                        weasel       0.93      0.93      0.93        14
+                      web site       0.75      1.00      0.86        12
+                        weevil       1.00      0.78      0.88         9
+                    weimaraner       0.39      0.70      0.50        10
+        welsh springer spaniel       0.50      0.53      0.52        15
+   west highland white terrier       0.21      0.50      0.30         6
+                       whippet       0.62      0.62      0.62         8
+                      whiptail       0.80      0.36      0.50        11
+                   whiskey jug       1.00      0.88      0.93         8
+                       whistle       0.90      0.69      0.78        13
+                   white stork       0.80      0.89      0.84         9
+                    white wolf       0.90      0.82      0.86        11
+                           wig       1.00      1.00      1.00        10
+                     wild boar       0.92      1.00      0.96        12
+                 window screen       0.82      0.75      0.78        12
+                  window shade       0.90      0.69      0.78        13
+                   windsor tie       1.00      0.64      0.78        11
+                   wine bottle       0.94      1.00      0.97        15
+                          wing       0.73      0.92      0.81        12
+       wire-haired fox terrier       0.44      0.73      0.55        11
+                           wok       0.92      1.00      0.96        12
+                   wolf spider       0.81      1.00      0.90        13
+                        wombat       1.00      0.79      0.88        14
+                   wood rabbit       1.00      0.82      0.90        11
+                  wooden spoon       1.00      0.90      0.95        10
+                          wool       1.00      0.93      0.96        14
+                    worm fence       0.85      0.92      0.88        12
+                         wreck       0.81      1.00      0.90        13
+                          yawl       1.00      0.90      0.95        10
+         yellow lady's slipper       0.94      1.00      0.97        17
+             yorkshire terrier       0.55      1.00      0.71        11
+                          yurt       1.00      0.90      0.95        10
+                         zebra       1.00      1.00      1.00        11
+                      zucchini       1.00      1.00      1.00         7
+
+                      accuracy                           0.85     11504
+                     macro avg       0.85      0.85      0.84     11504
+                  weighted avg       0.86      0.85      0.84     11504
+
